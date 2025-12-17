@@ -3,7 +3,7 @@ package com.example.demo.controller;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entity.*;
-import com.
+import com.example.demo.service.*;
 
 @RestController
 public class studentController{
