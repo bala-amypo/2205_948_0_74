@@ -1,8 +1,9 @@
 package com.example.demo.sevice.impl;
 
 import com.example.demo.service.*;
-impor
+import java.util.*;
 
 public class studentServiceImpl{
-
+      
+      List<studentEntity>
 }
